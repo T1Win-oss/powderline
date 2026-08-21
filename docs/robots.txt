@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://t1win-oss.github.io/powderline/sitemap.xml
